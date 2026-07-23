@@ -65,7 +65,7 @@ Full-stack developer focused on the MERN stack with a strong interest in Generat
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/Purnendu404">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   &nbsp;&nbsp;
