@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnendu Majumder</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • AI Engineer in Progress</b>
+  <b>Full-Stack Developer • AI Engineer</b>
 </p>
 
 <p align="center">
@@ -59,11 +59,18 @@ I enjoy building scalable web applications with the MERN stack while exploring A
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:purnendu.github@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
