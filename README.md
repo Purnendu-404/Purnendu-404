@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Purnendu Majumder</h1>
-<p align="center"><b>MERN/Next.js Developer • Generative AI</b></p>
-<p align="center">
-I build full-stack apps with the MERN stack and Next.js, and work in Generative AI — implementing models and algorithms from scratch, not just calling an API.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purnendu-404&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 - 💻 Full-stack apps with **React, Next.js, Node.js, Express, MongoDB**
