@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I enjoy building scalable web applications with the MERN stack while exploring Artificial Intelligence by implementing machine learning algorithms, tokenizers, and language model fundamentals from scratch in C++.
+Full-stack developer focused on the MERN stack with a strong interest in Generative AI, Deep Learning, and intelligent software development.
 </p>
 
 <p align="center">
