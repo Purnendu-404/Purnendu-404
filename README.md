@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnendu Majumder</h1>
-
+<p align="center"><b>MERN/Next.js Developer • Generative AI</b></p>
 <p align="center">
-  <b>Full-Stack Developer • AI Engineer</b>
-</p>
-
-<p align="center">
-Full-stack developer focused on the MERN stack with a strong interest in Generative AI, Deep Learning, and intelligent software development.
+I build full-stack apps with the MERN stack and Next.js, and work in Generative AI — implementing models and algorithms from scratch, not just calling an API.
 </p>
 
 <p align="center">
@@ -14,69 +10,24 @@ Full-stack developer focused on the MERN stack with a strong interest in Generat
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+- 💻 Full-stack apps with **React, Next.js, Node.js, Express, MongoDB**
+- 🧠 Work in **Generative AI** — implementing models and algorithms from scratch, not just wrapping APIs
+- ⚙️ Backend engineering and system design tie both together
 
-- 💻 Building full-stack applications with **React, Next.js, Node.js, Express, and MongoDB**
-- 🧠 Learning AI by implementing algorithms **from scratch**, not just using frameworks
-- ⚙️ Interested in **System Design, Backend Engineering, and Machine Learning**
-- 📚 Always learning by building real-world projects
-- 🚀 Focused on writing clean, maintainable, and efficient code
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
+### 🛠 Tech Stack
 <p align="center">
-  <a href="https://github.com/Purnendu-404">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://x.com/Purnendu404">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:purnendu.github@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,prisma" />
 </p>
 
 ---
 
+### 🤝 Connect
 <p align="center">
-<i>"Understand the fundamentals. Build from scratch. Then scale."</i>
+  <a href="https://github.com/Purnendu-404"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_ACTUAL_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Purnendu404"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;&nbsp;
+  <a href="mailto:purnendu.github@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
+
+<p align="center"><i>"Understand the fundamentals. Build from scratch. Then scale."</i></p>
