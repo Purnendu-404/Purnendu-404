@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnendu Majumder</h1>
 
 ### 👨‍💻 About Me
-- 💻 Full-stack apps with **React, Next.js, Node.js, Express, MongoDB**
+- 💻 Full-stack apps with **React, Node.js, Express, MongoDB**
 - 🧠 Work in **Generative AI** — implementing models and algorithms from scratch, not just wrapping APIs
 - ⚙️ Backend engineering and system design tie both together
 
